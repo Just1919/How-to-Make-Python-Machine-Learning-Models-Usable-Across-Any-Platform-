@@ -17,6 +17,7 @@ In this article series, we will explore several practical scenarios:
 *Using ONNX to run a Python model in other programming languages
 
 In this series of articles, we will cover these different points.
+Medium link Article 1:
   
 Thanks to  Jeff Prosise
 				
